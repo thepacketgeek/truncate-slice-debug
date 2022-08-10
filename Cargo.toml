@@ -1,0 +1,15 @@
+[package]
+name = "truncate-slice-debug"
+version = "0.1.0"
+authors = ["Mat Wood <thepacketgeek@users.noreply.github.com>"]
+description = "Extension for slices to truncate debug output to a set limit of items"
+categories = []
+keywords = ["debug"]
+edition = "2021"
+homepage = "https://github.com/thepacketgeek/truncate-slice-debug"
+license = "MIT OR Apache-2.0"
+documentation = "https://docs.rs/truncate-slice-debug"
+readme = "README.md"
+repository = "https://github.com/thepacketgeek/truncate-slice-debug"
+
+[dependencies]

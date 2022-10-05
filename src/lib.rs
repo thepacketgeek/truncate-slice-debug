@@ -1,3 +1,5 @@
+#![doc = include_str!("../README.md")]
+
 use std::fmt;
 
 pub struct TruncatedSlice<'a, T> {

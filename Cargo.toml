@@ -1,6 +1,6 @@
 [package]
 name = "truncate-slice-debug"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Mat Wood <thepacketgeek@users.noreply.github.com>"]
 description = "Extension for slices to truncate debug output to a set limit of items"
 categories = []
